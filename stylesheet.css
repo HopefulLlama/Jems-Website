@@ -1,0 +1,53 @@
+/* Not sure what colour scheme to use
+.navbar{
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a0d8ef), color-stop(65%,#ddf1f9), color-stop(100%,#feffff)); 
+}
+*/
+.dynamic{
+	max-width: 100%;
+}
+
+.navbar{
+	color: #0080CD;
+	margin-bottom: 0;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #0080CD;
+}
+
+#banner{
+	color: #EEEEFF;
+	width: 100%;
+	background-color: #0080cd;
+	margin-bottom: 25px;
+	padding-bottom: 15px;
+}
+
+.bannerItem{
+	padding-right: 10px;
+	margin-right: 10px;
+	border-right: 2px solid #0099ff;
+}
+
+.vcenter {
+	display: inline-block;
+	vertical-align: middle;
+	float: none;
+}
+
+.page-header{
+	border-bottom: 1px solid #0080cd;
+}
+
+hr{
+	border-top: 1px solid #0080cd;
+}
+
+.thumbnail{
+	border: 1px solid #0080cd;
+}
+
+#footer{
+	padding-top: 25px;
+	padding-bottom: 50px;
+}
